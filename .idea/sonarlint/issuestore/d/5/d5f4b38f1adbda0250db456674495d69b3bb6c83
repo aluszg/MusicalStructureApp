@@ -1,0 +1,6 @@
+
+ˆsquid:S1319"tThe type of the "libraries" object should be an interface such as "List" rather than the implementation "ArrayList".(»ËÏ 
+Ysquid:UselessImportCheck"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ
+Tsquid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³ğ‹G
+`squid:UselessImportCheck"?Remove this unused import 'android.support.annotation.NonNull'.(¼Åß
+gsquid:UselessImportCheck"@Remove this unused import 'android.support.annotation.Nullable'.(Ö‹øïüÿÿÿÿ

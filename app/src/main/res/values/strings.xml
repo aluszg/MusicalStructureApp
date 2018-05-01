@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <!-- Category name for the songs in library. [CHAR LIMIT=20] -->
+    <string name="category_library">Library of songs</string>
+    <!-- Category name for library button. [CHAR LIMIT=20] -->
+    <string name="library_button">Show list</string>
+    <!-- Category name for go button. [CHAR LIMIT=20] -->
+    <string name="go_button">Listen now</string>
+    <!-- Category name for play now. [CHAR LIMIT=20] -->
+    <string name="category_play_now">Play now</string>
+    <!-- Category description for library. -->
+    <string name="description_library">Listen to your favorite artists and albums whenever and wherever.</string>
+</resources>

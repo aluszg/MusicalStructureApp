@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="@dimen/marginLeft"
+    android:layout_marginRight="@dimen/marginRight"
+    android:layout_marginTop="@dimen/marginTop"
+    android:orientation="vertical"
+    tools:context="com.example.android.musicalstructureapp.MainActivity">
+
+    <RelativeLayout
+        style="@style/CategoryStyle"
+        android:background="@color/category_library">
+
+        <TextView
+            android:id="@+id/library"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/category_library"
+            android:textColor="@color/text"
+            android:textSize="@dimen/textSizeBig" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/library"
+            android:text="@string/description_library"
+            android:textColor="@color/text"
+            android:textSize="@dimen/textSizeSmall" />
+
+        <Button
+            android:id="@+id/library_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:backgroundTint="@color/category_library"
+            android:text="@string/library_button"
+            android:textAllCaps="true"
+            android:textColor="@color/text" />
+
+    </RelativeLayout>
+</LinearLayout>

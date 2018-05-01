@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="layout_margin">8dp</dimen>
+    <dimen name="marginLeft">8dp</dimen>
+    <dimen name="marginBottom">16dp</dimen>
+    <dimen name="marginRight">8dp</dimen>
+    <dimen name="marginTop">8dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="paddingLeft">16dp</dimen>
+    <dimen name="textSizeSmall">16sp</dimen>
+    <dimen name="textSizeBig">32sp</dimen>
+</resources>

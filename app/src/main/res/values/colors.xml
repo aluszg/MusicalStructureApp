@@ -1,0 +1,16 @@
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#e91e63</color>
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#c2185b</color>
+    <!-- Background color for app -->
+    <color name="colorAccent">#FF4081</color>
+    <!-- Background color for the play now category -->
+    <color name="category_play_now">#2d566b</color>
+    <!-- Background color for the library category -->
+    <color name="category_library">#227585</color>
+    <!-- Background color for the library button -->
+    <color name="library_button">#861e6a</color>
+    <!-- Background color for the library button text -->
+    <color name="text">#ffffff</color>
+</resources>
